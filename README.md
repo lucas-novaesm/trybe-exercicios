@@ -1,2 +1,2 @@
-# Meu repositorio de exercicios
+# Meu repositório de exercícios
 Exercicios da Trybe
