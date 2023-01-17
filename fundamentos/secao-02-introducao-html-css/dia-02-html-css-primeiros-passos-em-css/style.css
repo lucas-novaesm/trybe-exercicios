@@ -1,0 +1,23 @@
+
+        #title-fruits {
+            font-size: 65px;
+            color: orange;
+            text-align: center;
+        }
+
+        #list-color {
+            background-color: yellow;
+        }
+
+        .cor-de-fundo {
+            background-color: yellow;
+        }
+
+        #red{background-color: red;}
+        #yellow{background-color: yellow;}
+        #green{background-color: green;}
+
+        ul {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
