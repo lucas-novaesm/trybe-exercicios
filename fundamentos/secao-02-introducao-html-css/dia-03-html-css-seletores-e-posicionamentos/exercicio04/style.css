@@ -41,5 +41,5 @@ div:hover {
   }
   /* Deixe as tags ímpares <h3> com o texto em itálico. */
   div:nth-child(odd) h3 {
-    font-style: italic
+    font-style: italic 
   }
